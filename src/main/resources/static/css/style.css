@@ -1,0 +1,107 @@
+
+body {
+    font-family: Verdana, Sans-Serif;
+    background: #FFFFFF;
+    color: #3b3b3b;
+    text-align: left;
+    margin: 0;
+}
+
+a {
+    color: #000080;
+}
+
+p, h2, h3 {
+    margin: 10px;
+}
+
+#header {
+    background: #3b3b3b;
+    color: #FFFFFF;
+    padding: 15px 0px 5px 0px;
+}
+
+#header a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 5px 5px;
+}
+
+#header a:hover {
+    background: #616161;
+}
+
+#header a.nav-active {
+    background: #6098ff
+}
+
+#subHeader {
+    background: #616161;
+    color: #FFFFFF;
+    padding: 5px 0px;
+}
+
+#subHeader a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 5px 5px;
+}
+
+#subHeader a:hover {
+    background: #3b3b3b;
+}
+
+#subHeader a.nav-active {
+    background: #6098ff;
+}
+
+div.main {
+    width: 90%;
+    display: block;
+    margin: 20px auto;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+tr {
+
+}
+
+tr:nth-child(even) {
+    background-color: #eeeeee;
+}
+
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+
+td, th {
+    padding: 0px 10px;
+}
+
+
+
+form.form-style {
+    border-radius: 15px;
+    background-color: #eeeeee;
+    padding: 15px;
+    width: 50%;
+}
+
+input {
+    border-radius: 3px;
+    border: 1px solid #dddddd;
+}
+
+textarea {
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+}
+
+#companyDescription {
+
+}
+
